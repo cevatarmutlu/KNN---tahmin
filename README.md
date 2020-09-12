@@ -1,13 +1,13 @@
-# KNN TAHMİN
+# Knn Tahmin
 iris veriseti kullanılarak yapılmıştır.
 Verisetindeki etiketlerin silinmesi gerekmektedir. Sadece hücrelerdeki eksik verileri tahmin etmektedir.
 
-# KURULUM
+# Kurulum
 ```
 pip3 install -r requirenments
 ```
 
-# KUllanım
+# Kullanım
 
 - Elinizdeki verisetinin etiketlerini temizleyin
 - Tahmin etmesini istediğiniz hücrenin satırını ```knn_sorgu.xlsx``` adlı excel dosyasının içine yapıştırın.
